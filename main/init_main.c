@@ -10,5 +10,8 @@
 
 void app_main()
 {
-    wifi_ap_start();
+    // ESP_ERROR_CHECK(nvs_flash_init());
+
+    // ESP_LOGI(TAG, "ESP_WIFI_MODE_AP");
+    wifi_init_softap();
 }
