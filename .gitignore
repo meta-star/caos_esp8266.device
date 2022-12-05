@@ -1,2 +1,4 @@
+.vscode/browse.vc.*
+
 build/
 sdkconfig.old

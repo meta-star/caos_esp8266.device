@@ -2,6 +2,5 @@
 // (c) 2022 Star Inc. (https://starinc.xyz)
 // License: MIT
 
-#include <stdio.h>
-#include "freertos/FreeRTOS.h"
-#include "freertos/task.h"
+void wifi_ap_get_ssid_name();
+void wifi_ap_start();

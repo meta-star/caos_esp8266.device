@@ -2,9 +2,13 @@
 // (c) 2022 Star Inc. (https://starinc.xyz)
 // License: MIT
 
-#include "init_main.h"
+#include <stdio.h>
+#include "freertos/FreeRTOS.h"
+#include "freertos/task.h"
+
+#include "wifi_ap.h"
 
 void app_main()
 {
-    
+    wifi_ap_start();
 }
