@@ -1,11 +1,1 @@
-{
-    "files.associations": {
-        "stdio.h": "c",
-        "esp_spi_flash.h": "c",
-        "task.h": "c",
-        "freertos.h": "c",
-        "projdefs.h": "c",
-        "portable.h": "c",
-        "wifi_ap.h": "c"
-    },
-}
+{}
