@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := device.esp
+PROJECT_NAME := device.esp8266
 
 include $(IDF_PATH)/make/project.mk
 

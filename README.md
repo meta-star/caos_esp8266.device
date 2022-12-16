@@ -1,1 +1,1 @@
-# device.esp
+# device.esp8266
